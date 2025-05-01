@@ -1,0 +1,26 @@
+{
+    "format_version": 1,
+    "items": {
+        "minecraft:golden_sword": [
+            {
+                "name": "hell_sword",
+                "custom_model_data": 55001,
+                "display_name": "Hell Sword"
+            }
+        ],
+        "minecraft:bow": [
+            {
+                "name": "end_bow",
+                "custom_model_data": 55002,
+                "display_name": "End Bow"
+            }
+        ],
+        "minecraft:diamond_helmet": [
+            {
+                "name": "warden_helmet",
+                "custom_model_data": 55003,
+                "display_name": "Warden Helmet"
+            }
+        ]
+    }
+}

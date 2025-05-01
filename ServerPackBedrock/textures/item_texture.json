@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "ServerPAck",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "hell_sword": {
+        "textures": [
+            "textures/items/hell_sword"
+        ]
+    },
+    "end_bow": {
+        "textures": [
+            "textures/items/end_bow"
+        ]
+    },
+    "end_bow_pulling_0": {
+        "textures": [
+            "textures/items/end_bow_pulling_0"
+        ]
+    },
+    "end_bow_pulling_1": {
+        "textures": [
+            "textures/items/end_bow_pulling_1"
+        ]
+    },
+    "end_bow_pulling_2": {
+        "textures": [
+            "textures/items/end_bow_pulling_2"
+        ]
+    },
+    "warden_helmet": {
+        "textures": [
+            "textures/items/warden_helmet"
+        ]
+    }
+  }
+}

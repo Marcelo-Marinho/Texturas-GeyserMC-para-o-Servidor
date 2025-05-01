@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+
+        "entries": [
+            {
+                "threshold": 55001,
+                "model": {
+                    "type": "model",
+                    "model": "item/hell_sword"
+                }
+            }
+        ],
+
+        "fallback": {
+            "type": "model",
+            "model": "item/golden_sword"
+        }
+
+    }
+}
