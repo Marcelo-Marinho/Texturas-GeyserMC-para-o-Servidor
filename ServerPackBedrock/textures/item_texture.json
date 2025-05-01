@@ -31,6 +31,21 @@
         "textures": [
             "textures/items/warden_helmet"
         ]
+    },
+	"chainsaw": {
+        "textures": [
+            "textures/items/chainsaw"
+        ]
+    },
+	"sickle": {
+        "textures": [
+            "textures/items/sickle"
+        ]
+    },
+	"miku_sword": {
+        "textures": [
+            "textures/items/miku_sword"
+        ]
     }
   }
 }

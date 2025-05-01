@@ -21,6 +21,27 @@
                 "custom_model_data": 55003,
                 "display_name": "Warden Helmet"
             }
+        ],
+		"minecraft:iron_axe": [
+            {
+                "name": "chainsaw",
+                "custom_model_data": 55004,
+                "display_name": "Motoserra"
+            }
+        ],
+		"minecraft:iron_hoe": [
+            {
+                "name": "sickle",
+                "custom_model_data": 55005,
+                "display_name": "Foice de Ferro"
+            }
+        ],
+		"minecraft:wodden_sword": [
+            {
+                "name": "miku_sword",
+                "custom_model_data": 55006,
+                "display_name": "Alho poro da Miku"
+            }
         ]
     }
 }

@@ -8,14 +8,14 @@
                 "threshold": 55006,
                 "model": {
                     "type": "model",
-                    "model": "item/mike_sword"
+                    "model": "item/miku_sword"
                 }
             }
         ],
 
         "fallback": {
             "type": "model",
-            "model": "item/stone_sword"
+            "model": "item/wooden_sword"
         }
 
     }
