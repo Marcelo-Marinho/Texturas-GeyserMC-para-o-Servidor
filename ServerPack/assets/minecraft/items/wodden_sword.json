@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+
+        "entries": [
+            {
+                "threshold": 55006,
+                "model": {
+                    "type": "model",
+                    "model": "item/mike_sword"
+                }
+            }
+        ],
+
+        "fallback": {
+            "type": "model",
+            "model": "item/stone_sword"
+        }
+
+    }
+}
