@@ -12,7 +12,45 @@
             {
                 "name": "end_bow",
                 "custom_model_data": 55002,
-                "display_name": "End Bow"
+                "display_name": "End Bow",
+                "render_offsets": {
+                    "main_hand": {
+                        "first_person": {
+                            "position": {
+                                "x": 1,
+                                "y": 3,
+                                "z": 1
+                            },
+                            "rotation": {
+                                "x": 0,
+                                "y": -90,
+                                "z": 25
+                            },
+                            "scale": {
+                                "x": 0.75,
+                                "y": 0.75,
+                                "z": 0.75
+                            }
+                        },
+                        "third_person": {
+                            "position": {
+                                "x": -1,
+                                "y": -2,
+                                "z": 2.5
+                            },
+                            "rotation": {
+                                "x": -80,
+                                "y": 260,
+                                "z": -40
+                            },
+                            "scale": {
+                                "x": 0.9,
+                                "y": 0.9,
+                                "z": 0.9
+                            }
+                        }
+                    }
+                }
             }
         ],
         "minecraft:diamond_helmet": [
@@ -26,14 +64,90 @@
             {
                 "name": "chainsaw",
                 "custom_model_data": 55004,
-                "display_name": "Motoserra"
+                "display_name": "Motoserra",
+                "render_offsets": {
+                    "main_hand": {
+                        "first_person": {
+                            "position": {
+                                "x": 0,
+                                "y": 3,
+                                "z": -6
+                            },
+                            "rotation": {
+                                "x": -45,
+                                "y": 10,
+                                "z": 90
+                            },
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            }
+                        },
+                        "third_person": {
+                            "position": {
+                                "x": 0,
+                                "y": 3,
+                                "z": -5
+                            },
+                            "rotation": {
+                                "x": 20,
+                                "y": 90,
+                                "z": 0
+                            },
+                            "scale": {
+                                "x": 1,
+                                "y": 1,
+                                "z": 1
+                            }
+                        }
+                    }
+                }
             }
         ],
 		"minecraft:iron_hoe": [
             {
                 "name": "sickle",
                 "custom_model_data": 55005,
-                "display_name": "Foice de Ferro"
+                "display_name": "Foice de Ferro",
+                "render_offsets": {
+                    "main_hand": {
+                        "first_person": {
+                            "position": {
+                                "x": 1,
+                                "y": 3,
+                                "z": 1
+                            },
+                            "rotation": {
+                                "x": 0,
+                                "y": -90,
+                                "z": 25
+                            },
+                            "scale": {
+                                "x": 0.9,
+                                "y": 0.9,
+                                "z": 0.9
+                            }
+                        },
+                        "third_person": {
+                            "position": {
+                                "x": -1,
+                                "y": 3,
+                                "z": 2.5
+                            },
+                            "rotation": {
+                                "x": -80,
+                                "y": 260,
+                                "z": -40
+                            },
+                            "scale": {
+                                "x": 1.2,
+                                "y": 1.2,
+                                "z": 1.2
+                            }
+                        }
+                    }
+                }
             }
         ],
 		"minecraft:wodden_sword": [
