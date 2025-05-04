@@ -11,22 +11,7 @@
         "textures": [
             "textures/items/end_bow"
         ]
-    },
-    "end_bow_pulling_0": {
-        "textures": [
-            "textures/items/end_bow_pulling_0"
-        ]
-    },
-    "end_bow_pulling_1": {
-        "textures": [
-            "textures/items/end_bow_pulling_1"
-        ]
-    },
-    "end_bow_pulling_2": {
-        "textures": [
-            "textures/items/end_bow_pulling_2"
-        ]
-    },
+    }
     "warden_helmet": {
         "textures": [
             "textures/items/warden_helmet"
