@@ -12,7 +12,11 @@
             {
                 "name": "end_bow",
                 "custom_model_data": 55002,
-                "display_name": "End Bow"
+                "display_name": "End Bow",
+                "icon": "end_bow",
+                "is_tool": true,
+                "allow_offhand": true,
+                "minecraft:use_animation": "bow"
             }
         ],
         "minecraft:diamond_helmet": [
