@@ -1,7 +1,7 @@
 {
   "format_version": "1.10",
   "render_controllers": {
-    "controller.render.end_bow": {
+    "controller.render.bow_progress": {
       "arrays": {
         "textures": {
           "array.bow_texture_frames": [
