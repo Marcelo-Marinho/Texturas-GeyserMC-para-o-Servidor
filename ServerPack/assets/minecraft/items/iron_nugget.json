@@ -1,0 +1,22 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+
+        "entries": [
+            {
+                "threshold": 55007,
+                "model": {
+                    "type": "model",
+                    "model": "item/revolver_ultrakill"
+                }
+            }
+        ],
+
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_nugget"
+        }
+
+    }
+}

@@ -42,6 +42,13 @@
                 "custom_model_data": 55006,
                 "display_name": "Alho poro da Miku"
             }
+        ],
+		"minecraft:iron_nugget": [
+            {
+                "name": "revolver_ultrakill",
+                "custom_model_data": 55007,
+                "display_name": "Piercer Revolver"
+            }
         ]
     }
 }
