@@ -4,14 +4,14 @@
         "name": "ServerPAck",
         "description": "Para melhores aventuras",
         "uuid": "5872c621-eb20-4cf3-9242-b1a9f6f27b68",
-        "version": [1, 1, 6],
+        "version": [1, 1, 7],
         "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
             "type": "resources",
             "uuid": "0da58ebe-fd10-4e10-bf3a-5421a6f048af",
-            "version": [1, 1, 6]
+            "version": [1, 1, 7]
         }
     ],
     "metadata": {
